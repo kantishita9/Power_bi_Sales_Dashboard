@@ -62,4 +62,4 @@ This project demonstrates the use of Power BI for transforming raw business data
 
 
 By -
-Ishita Kant
+Ishita
